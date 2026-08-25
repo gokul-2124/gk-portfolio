@@ -79,7 +79,7 @@ export const HeroSection = () => {
               View My Work
             </a>
             <a
-              href="https://drive.google.com/file/d/14DPsy2XsgMCNgExPpyfMCNmebl7X7LXO/view?usp=sharing"
+              href="https://drive.google.com/file/d/1HltJxMvoWI4okNBVrUW4jT6E6erv0MpL/view?usp=sharing"
               target="_blank"
               className="cosmic-button-outline flex items-center gap-2"
             >
